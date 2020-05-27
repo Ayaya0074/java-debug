@@ -3,6 +3,10 @@
   "files.exclude": {
     "**/.git": true,
     "**/*.class": true,
-    "**/.DS_Store": true
+    "**/.DS_Store": true,
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
   }
 }
